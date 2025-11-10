@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "test.html",
+    "href": "test.html",
+    "title": "Test",
+    "section": "",
+    "text": "Hello test\nIf you see this text, rendering is OK."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Contact\nInstitutional Email: echev057@umn.edu\nPersonal Email: carolinaecheverriduran@gmail.com\nOffice: 332A Ruttan Hall\nDepartment of Applied Economics\nUniversity of Minnesota, St. Paul, MN 55108\nGitHub: https://github.com/cechev"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Labor & Education Economics; Development; Applied Microeconometrics. Current themes: teacher/classroom quality, peer effects, skill formation, social security policies.\n\n\n\n\nInteractions: Do Teacher Behaviors Predict Achievement, Executive Function, and Non-Cognitive Outcomes in Elementary School? (with Carneiro, Campos, Cruz-Aguayo, Schady).\nThe Asymmetric Effects of High-Achiever Peers: Experimental Evidence from Ecuador (with Cruz-Aguayo, Fuertes).\n\n\n\n\n\nEffect of Aligning Health Benefits Between Contributory and Non-Contributory Regimes on Labor Market Outcomes: Evidence from Colombia.\n\n\n\n\n\nEcheverri Durán, C., Restrepo, D. M., & Morales, L. F. (2019). Sustainable transport and housing market: An analysis for Medellín. Desarrollo y Sociedad (83), 145–183.\n\n\n\n\n\nBeuermann, D., De Hoop, J., Cruz-Aguayo, Y., Echeverri Durán, C., et al. (2024). Suriname Poverty and Equity Assessment.\n\n\n\n\nLACEA-LAMES (2019); Congreso Anual Red de Investigadores de Economía (2019); IEA World Congress (2023)."
+  },
+  {
+    "objectID": "research.html#interests",
+    "href": "research.html#interests",
+    "title": "Research",
+    "section": "",
+    "text": "Labor & Education Economics; Development; Applied Microeconometrics. Current themes: teacher/classroom quality, peer effects, skill formation, social security policies."
+  },
+  {
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "Research",
+    "section": "",
+    "text": "Interactions: Do Teacher Behaviors Predict Achievement, Executive Function, and Non-Cognitive Outcomes in Elementary School? (with Carneiro, Campos, Cruz-Aguayo, Schady).\nThe Asymmetric Effects of High-Achiever Peers: Experimental Evidence from Ecuador (with Cruz-Aguayo, Fuertes)."
+  },
+  {
+    "objectID": "research.html#work-in-progress",
+    "href": "research.html#work-in-progress",
+    "title": "Research",
+    "section": "",
+    "text": "Effect of Aligning Health Benefits Between Contributory and Non-Contributory Regimes on Labor Market Outcomes: Evidence from Colombia."
+  },
+  {
+    "objectID": "research.html#publications",
+    "href": "research.html#publications",
+    "title": "Research",
+    "section": "",
+    "text": "Echeverri Durán, C., Restrepo, D. M., & Morales, L. F. (2019). Sustainable transport and housing market: An analysis for Medellín. Desarrollo y Sociedad (83), 145–183."
+  },
+  {
+    "objectID": "research.html#other-publications",
+    "href": "research.html#other-publications",
+    "title": "Research",
+    "section": "",
+    "text": "Beuermann, D., De Hoop, J., Cruz-Aguayo, Y., Echeverri Durán, C., et al. (2024). Suriname Poverty and Equity Assessment."
+  },
+  {
+    "objectID": "research.html#presentations",
+    "href": "research.html#presentations",
+    "title": "Research",
+    "section": "",
+    "text": "LACEA-LAMES (2019); Congreso Anual Red de Investigadores de Economía (2019); IEA World Congress (2023)."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Hello, I’m Carolina Echeverri\nPh.D. Student in Applied Economics, University of Minnesota\nResearch areas: Labor & Education Economics; Development; Applied Micro\nI study how inputs to human capital formation influence medium- and long-term outcomes, focusing on teacher quality, peer effects, and the effects of non-contributory benefits on individuals’ labor supply and participation in formal employment.\nCurrently: Ph.D. student (Applied Economics), University of Minnesota.\nLinks: GitHub: https://github.com/cechev"
+  }
+]
